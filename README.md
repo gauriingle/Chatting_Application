@@ -19,4 +19,4 @@ Integrated file sharing functionality for users to exchange product-related docu
 Implemented encryption techniques to ensure the security of data transmission over the network.
 Collaborated with team members to test and debug the application, resolving issues efficiently to deliver a stable product.
 ![image](https://github.com/gauriingle/Chatting_Application/assets/158572244/0157a30c-fdf5-44b9-92ad-0f8428c1983d)
-![Screenshot (998)](https://github.com/gauriingle/Chatting_Application/assets/158572244/75c88633-2041-4eca-b4f5-ae46600fe53e)
+
